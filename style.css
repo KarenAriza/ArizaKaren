@@ -9,7 +9,11 @@ html {
   
 	}
 
-
+#lista1 {
+    width: 200px;
+    list-style: none;
+    margin: 0px;
+    padding: 0px;
 }
 
 #lista1 li { 
@@ -85,29 +89,30 @@ html {
 nav ul li:hover {
     background:#ffffff;
     padding-top: 0px;
-}
+
 body {
     background: url(imagenes/fondo.jpg);
     background-repeat: no-repeat;
     background-size: cover;
 }
 
-primera{
-    width: 15%;
-    margin-left: 25%;
+#primera{
+    width: 10px;
+    margin-left: 10px;
 }
 
-segunda{
+#segunda{
     width: 16.6%;
     margin-left: 20%;
 }
 
-primera{
+#primera{
     width: 40%;
     margin-left: 10%;
 }
 
-segunda{
+#segunda{
     width: 40%;
     margin-left: 10%;
 }
+  
